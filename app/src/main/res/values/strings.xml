@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">CPF</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Cadastrar</string>
+    <string name="action_sign_in_short">Cadastrar</string>
+    <string name="error_invalid_email">Login inválido</string>
+    <string name="error_invalid_password">Senha incorreta</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="app_name">MilhaMais</string>
+</resources>
